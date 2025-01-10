@@ -1,122 +1,52 @@
-## Hi there 👋 , I'm Sunyeat Islam Emon
+# Hi there! 👋
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Portfolio</title>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      background-color: #f4f4f9;
-      margin: 0;
-      padding: 0;
-    }
-    .container {
-      max-width: 1200px;
-      margin: 20px auto;
-      padding: 20px;
-    }
-    h2, h3 {
-      margin: 20px 0;
-      color: #333;
-    }
-    .social-links a {
-      text-decoration: none;
-      margin-right: 10px;
-      font-size: 18px;
-      color: white;
-      padding: 8px 12px;
-      border-radius: 5px;
-    }
-    .github { background: #333; }
-    .linkedin { background: #0077b5; }
-    .twitter { background: #1da1f2; }
-    .instagram { background: #e1306c; }
-    .facebook { background: #1877f2; }
-    .badge {
-      display: inline-block;
-      margin: 5px;
-      padding: 10px 15px;
-      font-size: 14px;
-      color: white;
-      border-radius: 20px;
-      font-weight: bold;
-    }
-    .languages .badge { background-color: #0078d7; }
-    .expertise .badge { background-color: #ff6347; }
-    .comfortable .badge { background-color: #28a745; }
-    .familiar .badge { background-color: #ffcc00; }
-    .badge-html { background-color: #e34f26; }
-    .badge-css { background-color: #1572b6; }
-    .badge-js { background-color: #f7df1e; color: black; }
-    .badge-react { background-color: #61dafb; color: black; }
-    .badge-redux { background-color: #764abc; }
-    .badge-next { background-color: #000000; }
-    .badge-tailwind { background-color: #38b2ac; }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <h2>Connect with me:</h2>
-    <div class="social-links">
-      <a href="#" class="github"><i class="fab fa-github"></i> GitHub</a>
-      <a href="#" class="linkedin"><i class="fab fa-linkedin"></i> LinkedIn</a>
-      <a href="#" class="twitter"><i class="fab fa-twitter"></i> Twitter</a>
-      <a href="#" class="instagram"><i class="fab fa-instagram"></i> Instagram</a>
-      <a href="#" class="facebook"><i class="fab fa-facebook"></i> Facebook</a>
-    </div>
+## I'm Sunyat Islam Emon, a Full Stack Web Developer 🚀
 
-    <h2>Skills</h2>
+### Connect with me:
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](#)
 
-    <h3>Languages:</h3>
-    <div class="languages">
-      <span class="badge badge-c">C</span>
-      <span class="badge badge-cpp">C++</span>
-      <span class="badge badge-java">Java</span>
-      <span class="badge badge-python">Python</span>
-      <span class="badge badge-js">JavaScript</span>
-      <span class="badge badge-ts">TypeScript</span>
-    </div>
+---
 
-    <h3>Expertise:</h3>
-    <div class="expertise">
-      <span class="badge badge-html">HTML5</span>
-      <span class="badge badge-css">CSS3</span>
-      <span class="badge badge-tailwind">Tailwind CSS</span>
-      <span class="badge badge-bootstrap">Bootstrap</span>
-      <span class="badge badge-react">React</span>
-      <span class="badge badge-redux">Redux</span>
-      <span class="badge badge-next">Next.js</span>
-    </div>
+### Skills
 
-    <h3>Comfortable:</h3>
-    <div class="comfortable">
-      <span class="badge">Node.js</span>
-      <span class="badge">Express.js</span>
-      <span class="badge">MongoDB</span>
-      <span class="badge">MySQL</span>
-      <span class="badge">PostgreSQL</span>
-      <span class="badge">REST API</span>
-      <span class="badge">JWT</span>
-      <span class="badge">Axios</span>
-      <span class="badge">Prisma</span>
-    </div>
+#### Languages:
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-    <h3>Familiar:</h3>
-    <div class="familiar">
-      <span class="badge">Redux Toolkit</span>
-      <span class="badge">RTK Query</span>
-      <span class="badge">TanStack Query</span>
-      <span class="badge">Ant Design</span>
-      <span class="badge">GraphQL</span>
-      <span class="badge">Material UI</span>
-      <span class="badge">Testing</span>
-      <span class="badge">Git</span>
-    </div>
-  </div>
-</body>
-</html>
+#### Expertise:
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+
+#### Comfortable:
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-APIs-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-%235A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
+
+#### Familiar:
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK%20Query-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-%230170FE.svg?style=for-the-badge&logo=ant-design&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Testing](https://img.shields.io/badge/Testing-%23E34F26.svg?style=for-the-badge&logo=testing&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
